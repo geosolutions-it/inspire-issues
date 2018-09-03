@@ -1,6 +1,6 @@
 # INSPIRE Issue
 
-This repository is an aggregator for INSPRE issue.
+This repository is an aggregator for INSPIRE issues.
 
-The issue can also be visualized through this kanban board:
+The issues can also be visualized through this kanban board:
 https://waffle.io/geosolutions-it/inspire-issues
