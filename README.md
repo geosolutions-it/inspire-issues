@@ -1,4 +1,4 @@
-# INSPIRE Issue
+# INSPIRE Issues
 
 This repository is an aggregator for INSPIRE issues.
 
